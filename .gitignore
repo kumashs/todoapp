@@ -1,0 +1,48 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Production build files
+dist/
+
+# Editor-specific files
+.idea/
+.vscode/
+
+# Mac files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Miscellaneous
+*.bak
+*.backup
+*.orig
+*.tmp
+*.swp
+*~

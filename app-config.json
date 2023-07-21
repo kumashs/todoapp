@@ -1,0 +1,11 @@
+[
+  {
+      "env": "DEV",
+      "projectName": "TODO-Application",
+      "projectId": "todoApp",
+      "url": "http://localhost",
+      "port": 5888,
+      "userSecret": "",
+      "token": "7a1ffb2b-32dc-45b5-a5a0-a4b97f6ee684"
+  }
+]
